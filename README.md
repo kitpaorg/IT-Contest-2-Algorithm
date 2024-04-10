@@ -13,5 +13,5 @@
 ## 예비소집 2번
 
 * 시간제한: `1초`
-* 메모리제한: `256MB`
+* 메모리제한: `1024MB`
 * 출제자: [`martinok1103`](https://www.acmicpc.net/user/martinok1103)
