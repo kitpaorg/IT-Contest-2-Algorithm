@@ -26,5 +26,5 @@
 * 스페셜 저지: `c_tree-powersaving/files/chkr.cpp`
 * 밸리데이터: `c_tree-powersaving/files/vald.cpp`
 * 지문: `c_tree-powersaving/statements/korean/problem.tex`
- * **중요: Notes 문단은 BOJ의 1번 예제 설명 문단에 해당합니다.**
+  * **중요: Notes 문단은 BOJ의 1번 예제 설명 문단에 해당합니다.**
 * 데이터: `c_tree-powersaving/tests/*`
