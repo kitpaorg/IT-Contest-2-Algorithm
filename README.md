@@ -28,3 +28,25 @@
 * 지문: `c_tree-powersaving/statements/korean/problem.tex`
   * **중요: Notes 문단은 BOJ의 1번 예제 설명 문단에 해당합니다.**
 * 데이터: `c_tree-powersaving/tests/*`
+
+## 초등 2번
+
+* 제목: `즐거운 회의`
+* 시간제한: `1초`
+* 메모리제한: `1024MB`
+* 출제자: [`kiwiyou`](https://www.acmicpc.net/user/kiwiyou)
+* 경로: `d_fun-meeting`
+* 밸리데이터: `d_fun-meeting/files/validator.cpp`
+* 지문: `d_fun-meeting/statements/korean/problem.tex`
+* 데이터: `d_fun-meeting/tests/*`
+
+## 중등 3번, 고등 2번
+
+* 제목: `리스트 가상화`
+* 시간제한: `5초`
+* 메모리제한: `1024MB`
+* 출제자: [`kiwiyou`](https://www.acmicpc.net/user/kiwiyou)
+* 경로: `e_list-virtualization`
+* 밸리데이터: `e_list-virtualization/files/validator.cpp`
+* 지문: `e_list-virtualization/statements/korean/problem.tex`
+* 데이터: `e_list-virtualization/tests/*`
