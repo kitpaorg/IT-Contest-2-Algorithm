@@ -16,6 +16,18 @@
 * 메모리제한: `1024MB`
 * 출제자: [`martinok1103`](https://www.acmicpc.net/user/martinok1103)
 
+## 초등 1번
+
+* 제목: `게임말 올려놓기`
+* 시간제한: `1초`
+* 메모리제한: `1024MB`
+* 출제자: [`ai4youej`](https://www.acmicpc.net/user/ai4youej)
+* 경로: `a_grid-counting`
+* 밸리데이터: `a_grid-counting/files/validator.cpp`
+* 지문: `a_grid-counting/statements/korean/problem.tex`
+* 지문 그림: `a_grid-counting/statements/korean/grid.png`
+* 데이터: `a_grid-counting/tests/*
+
 ## 초등 3번, 중등 2번
 
 * 제목: `트리 불 끄기`
@@ -50,3 +62,14 @@
 * 밸리데이터: `e_list-virtualization/files/validator.cpp`
 * 지문: `e_list-virtualization/statements/korean/problem.tex`
 * 데이터: `e_list-virtualization/tests/*`
+
+## 고등 3번
+
+* 제목: `캐시 메모리 정하기`
+* 시간제한: `2초`
+* 메모리제한: `1024MB`
+* 출제자: [`ai4youej`](https://www.acmicpc.net/user/ai4youej), [`flappybird`](https://www.acmicpc.net/user/flappybird)
+* 경로: `f_cache-select`
+* 밸리데이터: `f_cache-select/files/validator.cpp`
+* 지문: `f_cache-select/statements/korean/problem.tex`
+* 데이터: `f_cache-select/tests/*`
