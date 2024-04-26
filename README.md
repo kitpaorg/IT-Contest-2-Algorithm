@@ -15,6 +15,9 @@
 * 시간제한: `1초`
 * 메모리제한: `1024MB`
 * 출제자: [`martinok1103`](https://www.acmicpc.net/user/martinok1103)
+* 경로: `pb_auditorium-rent`
+* 지문: `pb_auditorium-rent/statements/problem.tex`
+* 데이터: `pb_auditorium-rent/tests/*`
 
 ## 초등 1번, 중등 1번
 
@@ -26,7 +29,7 @@
 * 밸리데이터: `a_grid-counting/files/validator.cpp`
 * 지문: `a_grid-counting/statements/korean/problem.tex`
 * 지문 그림: `a_grid-counting/statements/korean/grid.png`
-* 데이터: `a_grid-counting/tests/*
+* 데이터: `a_grid-counting/tests/*`
 
 ## 초등 3번, 중등 2번
 
